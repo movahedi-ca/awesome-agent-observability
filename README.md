@@ -87,6 +87,7 @@ Quickly narrow the field. *Self-hosted?* means an official open-source deploymen
 - [LangWatch](https://github.com/langwatch/langwatch) — Monitoring, evaluation, and analytics platform for LLM and agent applications.
 - [Weave](https://github.com/wandb/weave) — Weights & Biases toolkit for tracking, evaluating, and debugging LLM application calls.
 - [MLflow](https://github.com/mlflow/mlflow) — ML lifecycle platform with LLM tracing, evaluation, and prompt management features.
+- [AiTrace.NET](https://github.com/aitrace-dotnet/AiTrace.NET) — Cryptographic audit trail library for .NET that records what an AI system did, when, and why; Pro tier adds RSA-SHA256 signed records and sealed evidence bundles for compliance.
 
 ## Evaluation Frameworks
 
